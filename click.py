@@ -1,1 +1,2 @@
-click()
+Def click:
+  print(“click”)

@@ -1,1 +1,3 @@
-NewScreen
+def welcome:
+  print(“welcome”)
+
